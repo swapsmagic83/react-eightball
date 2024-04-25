@@ -1,0 +1,14 @@
+.EightBall-btn{
+    color: white;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border-color: none;
+    text-align: center;
+    display: block;
+    font-size: 20px;
+    margin: 4px 2px;
+}
+.EightBall-rstbtn{
+    border: 1px solid black;
+}
